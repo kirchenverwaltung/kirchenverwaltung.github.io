@@ -11,6 +11,15 @@
 .wine{width:min(360px,88%);margin:0 auto 25px;display:block;border-radius:15px;box-shadow:0 18px 35px #43271930;border:6px solid #fff9ef}
 .badge{display:inline-block;padding:8px 15px;border-radius:999px;background:#ead5b1;color:#6b402b;font:700 .78rem Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase}.voucher{font-size:clamp(1.35rem,5vw,2rem);font-weight:700;color:#691f2e;margin:18px 0 10px}.note{font:1rem/1.6 Arial,sans-serif;color:#765747;max-width:470px;margin:0 auto}.footer{margin-top:25px;font:700 .7rem Arial,sans-serif;letter-spacing:.08em;color:#a28670}
 </style>
+   <style>
+        body {
+            background-image: url("WhatsApp Image 2026-10-02 at 19.01.37.jpeg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
 </head>
 <body>
 <main class="card">
