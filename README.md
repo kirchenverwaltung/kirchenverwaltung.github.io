@@ -16,7 +16,6 @@
 <main class="card">
 <p class="kicker">Ein wichtiger Gutschein</p>
 <h1 class="title">🍷 Gutschein</h1>
-<p class="sub">Für einen Einkauf, bei dem die Größe des Einkaufswagens ausnahmsweise keine Rolle spielt.</p>
 <img class="wine" src="https://www.valgourmand.com/31246-superlarge_default/bib-5l-vin-rouge-caves-du-buisson.jpg" alt="5-Liter-Weinbox">
 <div class="badge">5 Liter • Wein</div>
 <p class="voucher">Dieser Gutschein gilt für eine 5-Liter-Weinbox. 🍷</p>
